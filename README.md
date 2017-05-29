@@ -1,5 +1,3 @@
-# test_repository
-Initial setup
+# Branch readme 
 
-
-Testing branching function... 
+I have made a branch of the dist code, I will make some changes
