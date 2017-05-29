@@ -58,5 +58,5 @@ true.cdf <- (1 + exp(-v))^(-4)
 plot(v, emp.cdf, xlab="X", ylab="F(X)", main="Empirical vs True CDF", col=2,type="l")
 lines(v,true.cdf,col=4)
 
-
+## just adding some words at the bottom ####
 
